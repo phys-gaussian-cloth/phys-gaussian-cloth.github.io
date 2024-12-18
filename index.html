@@ -129,7 +129,7 @@
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body">
-      <img src="./static/images/1_teaser.png"
+      <img src="./static/images/teaser.png"
         class="interpolation-image"
         alt="teaser"/>
       <h2 class="subtitle has-text-centered">
@@ -206,20 +206,36 @@
       </div>
     </div>
     <!--/ Abstract. -->
-
-    <!-- Paper video. -->
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">Video</h2>
-        <div class="publication-video">
-          <iframe src="https://www.youtube.com/embed/_MxPlD5vNwg?si=KDpaod4jQxvhPDxp&amp;showinfo=0"
-                  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </div>
-      </div>
-    </div>
-    <!--/ Paper video. -->
   </div>
 </section>
+
+<section class="section">
+  <!--/ Methods. -->
+  <div class="container is-max-desktop">
+    <h2 class="title is-3" style="text-align:center">Methods</h2>
+    <br>
+    <img src="./static/images/method.png"/>
+    <br>
+    <br>
+    <p style="text-align:center">
+      Given a multi-view capture of a clothed human in a single pose, we first extract the garment mesh and fit a 3DGS representation with mesh-embedded Gaussian splats. Simultaneously, we fit an albedo map of the ground truth image and back-project onto the mesh to generate a textured mesh. At inference, the mesh is shaded with a physically-based shading model and the resulting mesh colors are then transferred to zero-order spherical harmonics on the pre-optimized splats. Finally, we combine the high-pass of the original Gaussian splat reconstruction with the low-pass of the traditionally shaded result to produce the final render.
+    </p>
+  </div>
+  <!--/ Methods. -->
+</section>
+
+<!--/ Paper Video. -->
+<section class="section" id="supp_video">
+	<div class="container is-max-desktop">
+		<h2 class="title is-3" style="text-align:center">Video</h2>
+    <div class="publication-video">
+      <iframe src="https://www.youtube.com/embed/_MxPlD5vNwg?si=KDpaod4jQxvhPDxp&amp;showinfo=0"
+              frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+	</div>
+</section>
+<!--/ Paper Video. -->
+
 
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
