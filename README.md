@@ -1,14 +1,27 @@
-# Nerfies
+# Photorealistic Simulation-Ready Garments from a Single Pose
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [Photorealistic Simulation-Ready Garments from a Single Pose website](https://phys-gaussian-clothing.github.io/).
 
-If you find Nerfies useful for your work please cite:
+If you find "Photorealistic Simulation-Ready Garments from a Single Pose" useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{guo2025garments
+  author    = {
+    Guo, Michelle and 
+    Chiang, Matt Jen-Yuan and 
+    Santesteban, Igor and 
+    Sarafianos, Nikolaos and 
+    Chen, Hsiao-yu and 
+    Halimi, Oshri and 
+    Bozic, Aljaz and 
+    Saito, Shunsuke and 
+    Wu, Jiajun and 
+    Liu, C. Karen and 
+    Stuyck, Tuur and 
+    Larionov, Egor
+  },
+  title     = {Photorealistic Simulation-Ready Garments from a Single Pose},
+  journal   = {arXiv},
+  year      = {2025},
 }
 ```
 
