@@ -4,7 +4,7 @@ This is the repository that contains source code for the [Photorealistic Simulat
 
 If you find "Photorealistic Simulation-Ready Garments from a Single Pose" useful for your work please cite:
 ```
-@article{guo2025garments
+@article{guo2025garments,
   author    = {Guo, Michelle and Chiang, Matt Jen-Yuan and Santesteban, Igor and Sarafianos, Nikolaos and Chen, Hsiao-yu and Halimi, Oshri and Bozic, Aljaz and Saito, Shunsuke and Wu, Jiajun and Liu, C. Karen and Stuyck, Tuur and Larionov, Egor},
   title     = {Photorealistic Simulation-Ready Garments from a Single Pose},
   journal   = {arXiv},
