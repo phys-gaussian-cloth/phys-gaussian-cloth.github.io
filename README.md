@@ -6,7 +6,7 @@ If you find "PGC: Physics-Based Gaussian Cloth from a Single Pose" useful for yo
 ```
 @article{guo2025pgc,
   title={PGC: Physics-Based Gaussian Cloth from a Single Pose},
-  author={Guo, Michelle and Chiang, Matt Jen-Yuan and Santesteban, Igor and Sarafianos, Nikolaos and Chen, Hsiao-yu and Halimi, Oshri and Bo{\v{z}}i{\v{c}}, Alja{\v{z}} and Saito, Shunsuke and Wu, Jiajun and Liu, C Karen and others},
+  author={Guo, Michelle and Chiang, Matt Jen-Yuan and Santesteban, Igor and Sarafianos, Nikolaos and Chen, Hsiao-yu and Halimi, Oshri and Bo{\v{z}}i{\v{c}}, Alja{\v{z}} and Saito, Shunsuke and Wu, Jiajun and Liu, C Karen and Stuyck, Tuur and Larionov, Egor},
   journal={arXiv preprint arXiv:2503.20779},
   year={2025}
 }
